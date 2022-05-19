@@ -1,4 +1,4 @@
-public class apples {
+public class part5 {
     public static void main(String[] args) {
         double tuna;
         tuna = 5.28;

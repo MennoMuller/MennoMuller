@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class pears {
+public class part7 {
     public static void main(String[] args) {
         Scanner bucky = new Scanner(System.in);
         double fnum, snum, answer;
