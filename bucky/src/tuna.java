@@ -1,21 +1,13 @@
 public class tuna {
-    public void simpleMessage(String name){
-        System.out.println("Hello " + name);
-    }
-    private String girlName;
+    private String name;
+    private potpie birthday;
 
-    public tuna(String name){
-        girlName = name;
-    }
-
-    public void setGirlName(String name){
-        girlName = name;
-    }
-    public String getGirlName(){
-        return girlName;
+    public tuna(String theName, potpie theDate){
+        name = theName;
+        birthday = theDate;
     }
 
-    public void saying(){
-        System.out.printf("Your first girlfriend was %s\n", getGirlName());
+    public String toString(){
+        return String.format("My name is %s, and my birthday is %s",name,birthday);
     }
 }
