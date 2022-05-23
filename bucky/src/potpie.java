@@ -1,7 +1,7 @@
 public class potpie extends food{
 
     @Override
-    void eat() {
+    public void eat() {
         System.out.println("This potpie is great");
     }
 }
