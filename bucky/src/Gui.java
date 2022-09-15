@@ -1,34 +1,33 @@
 import javax.swing.*;
 import java.awt.*;
-import java.awt.event.ItemEvent;
-import java.awt.event.ItemListener;
+import java.awt.event.MouseAdapter;
+import java.awt.event.MouseEvent;
 
 public class Gui extends JFrame {
-    private JComboBox box;
-    private JLabel picture;
-
-    private static String[] filename = {"b.png", "x.png"};
-    private Icon[] pics = {new ImageIcon(getClass().getResource(filename[0])),new ImageIcon(getClass().getResource(filename[1]))};
+    private String details;
+    private JLabel statusBar;
 
     public Gui(){
-        super("the title");
-        setLayout(new FlowLayout());
+        super("turtle");
 
-        box = new JComboBox(filename);
+        statusBar = new JLabel("this is default");
+        add(statusBar, BorderLayout.SOUTH);
+        addMouseListener(new MouseClass());
+    }
 
-        box.addItemListener(
-                new ItemListener() {
-                    @Override
-                    public void itemStateChanged(ItemEvent e) {
-                        if(e.getStateChange()==ItemEvent.SELECTED){
-                            picture.setIcon(pics[box.getSelectedIndex()]);
-                        }
-                    }
-                }
-        );
+    private class MouseClass extends MouseAdapter{
+        @Override
+        public void mouseClicked(MouseEvent e) {
+            details = String.format("You clicked %dx ", e.getClickCount());
 
-        add(box);
-        picture=new JLabel(pics[0]);
-        add(picture);
+            if(SwingUtilities.isRightMouseButton(e)){
+                details += "with right mouse button";
+            } else if(SwingUtilities.isMiddleMouseButton(e)){
+                details += "with center mouse button";
+            } else {
+                details += "with left mouse button";
+            }
+            statusBar.setText(details);
+        }
     }
 }

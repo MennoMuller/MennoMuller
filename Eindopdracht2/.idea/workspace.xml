@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e02edd68-3254-48e2-b456-faacacd5ca18" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Calculator/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calculator/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calculator/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calculator/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calculator/Calculator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calculator/out/production/Calculator/Calculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calculator/src/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calculator/src/MainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eindopdracht1/Eindopdracht1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eindopdracht2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Eindopdracht2/com/mennomuller/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mennomuller/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/1. Fundamentals/Operators/1.5 Boolean Logic/Java_for_beginners.1._Fundamentals-Operators-1.5_Boolean_Logic.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/1. Fundamentals/Operators/1.5 Boolean Logic/Java_for_beginners.1._Fundamentals-Operators-1.5_Boolean_Logic.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/1. Fundamentals/Operators/1.5 Boolean Logic/Java_for_beginners.1._Fundamentals-Operators-1.5_Boolean_Logic.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/1. Fundamentals/Operators/1.6 Boolean Calculator/Java_for_beginners.1._Fundamentals-Operators-1.6_Boolean_Calculator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/1. Fundamentals/Operators/1.6 Boolean Calculator/Java_for_beginners.1._Fundamentals-Operators-1.6_Boolean_Calculator.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/1. Fundamentals/Operators/1.6 Boolean Calculator/Java_for_beginners.1._Fundamentals-Operators-1.6_Boolean_Calculator.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/1. Fundamentals/Operators/Boolean Operators/Java_for_beginners.1._Fundamentals-Operators-Boolean_Operators.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/1. Fundamentals/Operators/Boolean Operators/Java_for_beginners.1._Fundamentals-Operators-Boolean_Operators.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/1. Fundamentals/Operators/Boolean Operators/Java_for_beginners.1._Fundamentals-Operators-Boolean_Operators.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/1. Fundamentals/Operators/Comparison Operators/Java_for_beginners.1._Fundamentals-Operators-Comparison_Operators.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/1. Fundamentals/Operators/Comparison Operators/Java_for_beginners.1._Fundamentals-Operators-Comparison_Operators.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/1. Fundamentals/Operators/Comparison Operators/Java_for_beginners.1._Fundamentals-Operators-Comparison_Operators.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/1. Fundamentals/Operators/Shortcut Operators/Java_for_beginners.1._Fundamentals-Operators-Shortcut_Operators.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/1. Fundamentals/Operators/Shortcut Operators/Java_for_beginners.1._Fundamentals-Operators-Shortcut_Operators.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/1. Fundamentals/Operators/Shortcut Operators/Java_for_beginners.1._Fundamentals-Operators-Shortcut_Operators.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/1. Fundamentals/Structure/1.1 Class syntax/Java_for_beginners.1._Fundamentals-Structure-1.1_Class_syntax.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/1. Fundamentals/Structure/1.1 Class syntax/Java_for_beginners.1._Fundamentals-Structure-1.1_Class_syntax.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/1. Fundamentals/Structure/1.1 Class syntax/Java_for_beginners.1._Fundamentals-Structure-1.1_Class_syntax.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/1. Fundamentals/Structure/1.2 Say Hello/Java_for_beginners.1._Fundamentals-Structure-1.2_Say_Hello.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/1. Fundamentals/Structure/1.2 Say Hello/Java_for_beginners.1._Fundamentals-Structure-1.2_Say_Hello.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/1. Fundamentals/Structure/1.2 Say Hello/Java_for_beginners.1._Fundamentals-Structure-1.2_Say_Hello.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/1. Fundamentals/Structure/Classes in Java/Java_for_beginners.1._Fundamentals-Structure-Classes_in_Java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/1. Fundamentals/Structure/Classes in Java/Java_for_beginners.1._Fundamentals-Structure-Classes_in_Java.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/1. Fundamentals/Structure/Classes in Java/Java_for_beginners.1._Fundamentals-Structure-Classes_in_Java.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/1. Fundamentals/Structure/Printing Statements/Java_for_beginners.1._Fundamentals-Structure-Printing_Statements.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/1. Fundamentals/Structure/Printing Statements/Java_for_beginners.1._Fundamentals-Structure-Printing_Statements.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/1. Fundamentals/Structure/Printing Statements/Java_for_beginners.1._Fundamentals-Structure-Printing_Statements.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/1. Fundamentals/Variables/1.3 Cafe Receipt/Java_for_beginners.1._Fundamentals-Variables-1.3_Cafe_Receipt.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/1. Fundamentals/Variables/1.3 Cafe Receipt/Java_for_beginners.1._Fundamentals-Variables-1.3_Cafe_Receipt.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/1. Fundamentals/Variables/1.3 Cafe Receipt/Java_for_beginners.1._Fundamentals-Variables-1.3_Cafe_Receipt.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/1. Fundamentals/Variables/1.4 Speed Calculator/Java_for_beginners.1._Fundamentals-Variables-1.4_Speed_Calculator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/1. Fundamentals/Variables/1.4 Speed Calculator/Java_for_beginners.1._Fundamentals-Variables-1.4_Speed_Calculator.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/1. Fundamentals/Variables/1.4 Speed Calculator/Java_for_beginners.1._Fundamentals-Variables-1.4_Speed_Calculator.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/1. Fundamentals/Variables/Changing Values/Java_for_beginners.1._Fundamentals-Variables-Changing_Values.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/1. Fundamentals/Variables/Changing Values/Java_for_beginners.1._Fundamentals-Variables-Changing_Values.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/1. Fundamentals/Variables/Changing Values/Java_for_beginners.1._Fundamentals-Variables-Changing_Values.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/1. Fundamentals/Variables/Integer Division and Type Casting/Java_for_beginners.1._Fundamentals-Variables-Integer_Division_and_Type_Casting.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/1. Fundamentals/Variables/Integer Division and Type Casting/Java_for_beginners.1._Fundamentals-Variables-Integer_Division_and_Type_Casting.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/1. Fundamentals/Variables/Integer Division and Type Casting/Java_for_beginners.1._Fundamentals-Variables-Integer_Division_and_Type_Casting.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/1. Fundamentals/Variables/Storing Values/Java_for_beginners.1._Fundamentals-Variables-Storing_Values.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/1. Fundamentals/Variables/Storing Values/Java_for_beginners.1._Fundamentals-Variables-Storing_Values.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/1. Fundamentals/Variables/Storing Values/Java_for_beginners.1._Fundamentals-Variables-Storing_Values.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/2. Flow Control/Conditionals/2.1 Client Points/Java_for_beginners.2._Flow_Control-Conditionals-2.1_Client_Points.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/2. Flow Control/Conditionals/2.1 Client Points/Java_for_beginners.2._Flow_Control-Conditionals-2.1_Client_Points.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/2. Flow Control/Conditionals/2.1 Client Points/Java_for_beginners.2._Flow_Control-Conditionals-2.1_Client_Points.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/2. Flow Control/Conditionals/2.2 Roller Coaster/Java_for_beginners.2._Flow_Control-Conditionals-2.2_Roller_Coaster.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/2. Flow Control/Conditionals/2.2 Roller Coaster/Java_for_beginners.2._Flow_Control-Conditionals-2.2_Roller_Coaster.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/2. Flow Control/Conditionals/2.2 Roller Coaster/Java_for_beginners.2._Flow_Control-Conditionals-2.2_Roller_Coaster.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/2. Flow Control/Conditionals/2.3 Smart Room/Java_for_beginners.2._Flow_Control-Conditionals-2.3_Smart_Room.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/2. Flow Control/Conditionals/2.3 Smart Room/Java_for_beginners.2._Flow_Control-Conditionals-2.3_Smart_Room.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/2. Flow Control/Conditionals/2.3 Smart Room/Java_for_beginners.2._Flow_Control-Conditionals-2.3_Smart_Room.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/2. Flow Control/Conditionals/Conditionals/Java_for_beginners.2._Flow_Control-Conditionals-Conditionals.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/2. Flow Control/Conditionals/Conditionals/Java_for_beginners.2._Flow_Control-Conditionals-Conditionals.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/2. Flow Control/Conditionals/Conditionals/Java_for_beginners.2._Flow_Control-Conditionals-Conditionals.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/2. Flow Control/Conditionals/Nesting Conditionals/Java_for_beginners.2._Flow_Control-Conditionals-Nesting_Conditionals.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/2. Flow Control/Conditionals/Nesting Conditionals/Java_for_beginners.2._Flow_Control-Conditionals-Nesting_Conditionals.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/2. Flow Control/Conditionals/Nesting Conditionals/Java_for_beginners.2._Flow_Control-Conditionals-Nesting_Conditionals.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/2. Flow Control/Conditionals/The else Clause/Java_for_beginners.2._Flow_Control-Conditionals-The_else_Clause.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/2. Flow Control/Conditionals/The else Clause/Java_for_beginners.2._Flow_Control-Conditionals-The_else_Clause.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/2. Flow Control/Conditionals/The else Clause/Java_for_beginners.2._Flow_Control-Conditionals-The_else_Clause.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/2. Flow Control/Loops/2.4 Odd Selector/Java_for_beginners.2._Flow_Control-Loops-2.4_Odd_Selector.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/2. Flow Control/Loops/2.4 Odd Selector/Java_for_beginners.2._Flow_Control-Loops-2.4_Odd_Selector.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/2. Flow Control/Loops/2.4 Odd Selector/Java_for_beginners.2._Flow_Control-Loops-2.4_Odd_Selector.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/2. Flow Control/Loops/2.5 While Using Modulus/Java_for_beginners.2._Flow_Control-Loops-2.5_While_Using_Modulus.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/2. Flow Control/Loops/2.5 While Using Modulus/Java_for_beginners.2._Flow_Control-Loops-2.5_While_Using_Modulus.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/2. Flow Control/Loops/2.5 While Using Modulus/Java_for_beginners.2._Flow_Control-Loops-2.5_While_Using_Modulus.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/2. Flow Control/Loops/2.6 Breaking The Ice/Java_for_beginners.2._Flow_Control-Loops-2.6_Breaking_The_Ice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/2. Flow Control/Loops/2.6 Breaking The Ice/Java_for_beginners.2._Flow_Control-Loops-2.6_Breaking_The_Ice.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/2. Flow Control/Loops/2.6 Breaking The Ice/Java_for_beginners.2._Flow_Control-Loops-2.6_Breaking_The_Ice.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/2. Flow Control/Loops/2.7 Hundredth Prime/Java_for_beginners.2._Flow_Control-Loops-2.7_Hundredth_Prime.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/2. Flow Control/Loops/2.7 Hundredth Prime/Java_for_beginners.2._Flow_Control-Loops-2.7_Hundredth_Prime.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/2. Flow Control/Loops/2.7 Hundredth Prime/Java_for_beginners.2._Flow_Control-Loops-2.7_Hundredth_Prime.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/2. Flow Control/Loops/Nesting Loops and Conditionals/Java_for_beginners.2._Flow_Control-Loops-Nesting_Loops_and_Conditionals.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/2. Flow Control/Loops/Nesting Loops and Conditionals/Java_for_beginners.2._Flow_Control-Loops-Nesting_Loops_and_Conditionals.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/2. Flow Control/Loops/Nesting Loops and Conditionals/Java_for_beginners.2._Flow_Control-Loops-Nesting_Loops_and_Conditionals.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/2. Flow Control/Loops/The for Loop/Java_for_beginners.2._Flow_Control-Loops-The_for_Loop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/2. Flow Control/Loops/The for Loop/Java_for_beginners.2._Flow_Control-Loops-The_for_Loop.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/2. Flow Control/Loops/The for Loop/Java_for_beginners.2._Flow_Control-Loops-The_for_Loop.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/2. Flow Control/Loops/The while Loop/Java_for_beginners.2._Flow_Control-Loops-The_while_Loop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/2. Flow Control/Loops/The while Loop/Java_for_beginners.2._Flow_Control-Loops-The_while_Loop.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/2. Flow Control/Loops/The while Loop/Java_for_beginners.2._Flow_Control-Loops-The_while_Loop.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/2. Flow Control/Loops/break and continue/Java_for_beginners.2._Flow_Control-Loops-break_and_continue.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/2. Flow Control/Loops/break and continue/Java_for_beginners.2._Flow_Control-Loops-break_and_continue.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/2. Flow Control/Loops/break and continue/Java_for_beginners.2._Flow_Control-Loops-break_and_continue.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/3. Objects and Methods/Methods/3.4 Estimate Age/Java_for_beginners.3._Objects_and_Methods-Methods-3.4_Estimate_Age.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/3. Objects and Methods/Methods/3.4 Estimate Age/Java_for_beginners.3._Objects_and_Methods-Methods-3.4_Estimate_Age.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/3. Objects and Methods/Methods/3.4 Estimate Age/Java_for_beginners.3._Objects_and_Methods-Methods-3.4_Estimate_Age.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/3. Objects and Methods/Methods/3.5 Make it A Combo/Java_for_beginners.3._Objects_and_Methods-Methods-3.5_Make_it_A_Combo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/3. Objects and Methods/Methods/3.5 Make it A Combo/Java_for_beginners.3._Objects_and_Methods-Methods-3.5_Make_it_A_Combo.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/3. Objects and Methods/Methods/3.5 Make it A Combo/Java_for_beginners.3._Objects_and_Methods-Methods-3.5_Make_it_A_Combo.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/3. Objects and Methods/Methods/3.6 Counting Sheep/Java_for_beginners.3._Objects_and_Methods-Methods-3.6_Counting_Sheep.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/3. Objects and Methods/Methods/3.6 Counting Sheep/Java_for_beginners.3._Objects_and_Methods-Methods-3.6_Counting_Sheep.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/3. Objects and Methods/Methods/3.6 Counting Sheep/Java_for_beginners.3._Objects_and_Methods-Methods-3.6_Counting_Sheep.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/3. Objects and Methods/Methods/Returning Values/Java_for_beginners.3._Objects_and_Methods-Methods-Returning_Values.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/3. Objects and Methods/Methods/Returning Values/Java_for_beginners.3._Objects_and_Methods-Methods-Returning_Values.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/3. Objects and Methods/Methods/Returning Values/Java_for_beginners.3._Objects_and_Methods-Methods-Returning_Values.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/3. Objects and Methods/Methods/Static Attributes/Java_for_beginners.3._Objects_and_Methods-Methods-Static_Attributes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/3. Objects and Methods/Methods/Static Attributes/Java_for_beginners.3._Objects_and_Methods-Methods-Static_Attributes.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/3. Objects and Methods/Methods/Static Attributes/Java_for_beginners.3._Objects_and_Methods-Methods-Static_Attributes.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/3. Objects and Methods/Methods/Void Methods/Java_for_beginners.3._Objects_and_Methods-Methods-Void_Methods.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/3. Objects and Methods/Methods/Void Methods/Java_for_beginners.3._Objects_and_Methods-Methods-Void_Methods.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/3. Objects and Methods/Methods/Void Methods/Java_for_beginners.3._Objects_and_Methods-Methods-Void_Methods.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/3. Objects and Methods/Objects/3.1 Make a Thing/Java_for_beginners.3._Objects_and_Methods-Objects-3.1_Make_a_Thing.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/3. Objects and Methods/Objects/3.1 Make a Thing/Java_for_beginners.3._Objects_and_Methods-Objects-3.1_Make_a_Thing.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/3. Objects and Methods/Objects/3.1 Make a Thing/Java_for_beginners.3._Objects_and_Methods-Objects-3.1_Make_a_Thing.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/3. Objects and Methods/Objects/3.2 Shoe Maker/Java_for_beginners.3._Objects_and_Methods-Objects-3.2_Shoe_Maker.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/3. Objects and Methods/Objects/3.2 Shoe Maker/Java_for_beginners.3._Objects_and_Methods-Objects-3.2_Shoe_Maker.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/3. Objects and Methods/Objects/3.2 Shoe Maker/Java_for_beginners.3._Objects_and_Methods-Objects-3.2_Shoe_Maker.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/3. Objects and Methods/Objects/3.3 Car Factory/Java_for_beginners.3._Objects_and_Methods-Objects-3.3_Car_Factory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/3. Objects and Methods/Objects/3.3 Car Factory/Java_for_beginners.3._Objects_and_Methods-Objects-3.3_Car_Factory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/3. Objects and Methods/Objects/3.3 Car Factory/Java_for_beginners.3._Objects_and_Methods-Objects-3.3_Car_Factory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/3. Objects and Methods/Objects/Attributes/Java_for_beginners.3._Objects_and_Methods-Objects-Attributes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/3. Objects and Methods/Objects/Attributes/Java_for_beginners.3._Objects_and_Methods-Objects-Attributes.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/3. Objects and Methods/Objects/Attributes/Java_for_beginners.3._Objects_and_Methods-Objects-Attributes.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/3. Objects and Methods/Objects/Constructors/Java_for_beginners.3._Objects_and_Methods-Objects-Constructors.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/3. Objects and Methods/Objects/Constructors/Java_for_beginners.3._Objects_and_Methods-Objects-Constructors.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/3. Objects and Methods/Objects/Constructors/Java_for_beginners.3._Objects_and_Methods-Objects-Constructors.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/3. Objects and Methods/Objects/Objects/Java_for_beginners.3._Objects_and_Methods-Objects-Objects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/3. Objects and Methods/Objects/Objects/Java_for_beginners.3._Objects_and_Methods-Objects-Objects.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/3. Objects and Methods/Objects/Objects/Java_for_beginners.3._Objects_and_Methods-Objects-Objects.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/4. Arrays and String Methods/Arrays/4.3 Get Letter List/Java_for_beginners.4._Arrays_and_String_Methods-Arrays-4.3_Get_Letter_List.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/4. Arrays and String Methods/Arrays/4.3 Get Letter List/Java_for_beginners.4._Arrays_and_String_Methods-Arrays-4.3_Get_Letter_List.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/4. Arrays and String Methods/Arrays/4.3 Get Letter List/Java_for_beginners.4._Arrays_and_String_Methods-Arrays-4.3_Get_Letter_List.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/4. Arrays and String Methods/Arrays/4.4 Counting Error/Java_for_beginners.4._Arrays_and_String_Methods-Arrays-4.4_Counting_Error.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/4. Arrays and String Methods/Arrays/4.4 Counting Error/Java_for_beginners.4._Arrays_and_String_Methods-Arrays-4.4_Counting_Error.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/4. Arrays and String Methods/Arrays/4.4 Counting Error/Java_for_beginners.4._Arrays_and_String_Methods-Arrays-4.4_Counting_Error.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/4. Arrays and String Methods/Arrays/Arrays/Java_for_beginners.4._Arrays_and_String_Methods-Arrays-Arrays.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/4. Arrays and String Methods/Arrays/Arrays/Java_for_beginners.4._Arrays_and_String_Methods-Arrays-Arrays.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/4. Arrays and String Methods/Arrays/Arrays/Java_for_beginners.4._Arrays_and_String_Methods-Arrays-Arrays.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/4. Arrays and String Methods/Arrays/The Enhanced for Loop/Java_for_beginners.4._Arrays_and_String_Methods-Arrays-The_Enhanced_for_Loop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/4. Arrays and String Methods/Arrays/The Enhanced for Loop/Java_for_beginners.4._Arrays_and_String_Methods-Arrays-The_Enhanced_for_Loop.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/4. Arrays and String Methods/Arrays/The Enhanced for Loop/Java_for_beginners.4._Arrays_and_String_Methods-Arrays-The_Enhanced_for_Loop.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/4. Arrays and String Methods/String Methods/4.1 Get Shortest Word/Java_for_beginners.4._Arrays_and_String_Methods-String_Methods-4.1_Get_Shortest_Word.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/4. Arrays and String Methods/String Methods/4.1 Get Shortest Word/Java_for_beginners.4._Arrays_and_String_Methods-String_Methods-4.1_Get_Shortest_Word.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/4. Arrays and String Methods/String Methods/4.1 Get Shortest Word/Java_for_beginners.4._Arrays_and_String_Methods-String_Methods-4.1_Get_Shortest_Word.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/4. Arrays and String Methods/String Methods/4.2 Word Cutter/Java_for_beginners.4._Arrays_and_String_Methods-String_Methods-4.2_Word_Cutter.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/4. Arrays and String Methods/String Methods/4.2 Word Cutter/Java_for_beginners.4._Arrays_and_String_Methods-String_Methods-4.2_Word_Cutter.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/4. Arrays and String Methods/String Methods/4.2 Word Cutter/Java_for_beginners.4._Arrays_and_String_Methods-String_Methods-4.2_Word_Cutter.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/4. Arrays and String Methods/String Methods/String Length/Java_for_beginners.4._Arrays_and_String_Methods-String_Methods-String_Length.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/4. Arrays and String Methods/String Methods/String Length/Java_for_beginners.4._Arrays_and_String_Methods-String_Methods-String_Length.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/4. Arrays and String Methods/String Methods/String Length/Java_for_beginners.4._Arrays_and_String_Methods-String_Methods-String_Length.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/4. Arrays and String Methods/String Methods/Substrings/Java_for_beginners.4._Arrays_and_String_Methods-String_Methods-Substrings.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/4. Arrays and String Methods/String Methods/Substrings/Java_for_beginners.4._Arrays_and_String_Methods-String_Methods-Substrings.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/4. Arrays and String Methods/String Methods/Substrings/Java_for_beginners.4._Arrays_and_String_Methods-String_Methods-Substrings.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/Java_for_beginners.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/util/Java_for_beginners.util.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/util/Java_for_beginners.util.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java for beginners/.idea/modules/util/Java_for_beginners.util.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Phoneshop/Phoneshop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bucky/blorb.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bucky/fred.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bucky/src/GuiOld4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bucky/src/GuiOld5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bucky/src/GuiOld6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bucky/src/GuiOld7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bucky/src/Layout.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bucky/src/Peach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bucky/src/PeachOld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bucky/src/PeachOld2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bucky/src/createFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bucky/src/part70.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bucky/src/part72.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bucky/src/part74.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bucky/src/part77.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bucky/src/part78.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bucky/src/part79.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bucky/src/part80.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bucky/src/part81.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bucky/src/part82.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bucky/src/part83.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bucky/src/part84.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bucky/src/part85.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bucky/src/part86.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bucky/src/part87.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bucky/src/readFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caesar/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caesar/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caesar/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caesar/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caesar/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caesar/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caesar/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caesar/caesar.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caesar/out/production/caesar/com/mennomuller/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caesar/src/com/mennomuller/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../minuten/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../minuten/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../minuten/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../minuten/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../minuten/minuten.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../minuten/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scratchpad-itv/scratchpad-itv.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../speedCalculator/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../speedCalculator/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../speedCalculator/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../speedCalculator/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../speedCalculator/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../speedCalculator/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../speedCalculator/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../speedCalculator/out/production/speedCalculator/com/mennomuller/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../speedCalculator/speedCalculator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../speedCalculator/src/com/mennomuller/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../temperatuur/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../temperatuur/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../temperatuur/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../temperatuur/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../temperatuur/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../temperatuur/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../temperatuur/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../temperatuur/out/production/temperatuur/com/MennoMuller/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../temperatuur/src/com/MennoMuller/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../temperatuur/temperatuur.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bucky/out/production/bucky/Gui$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bucky/out/production/bucky/Gui.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bucky/out/production/bucky/Gui.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bucky/out/production/bucky/part68.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bucky/out/production/bucky/part68.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bucky/src/Gui.java" beforeDir="false" afterPath="$PROJECT_DIR$/../bucky/src/Gui.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bucky/src/part68.java" beforeDir="false" afterPath="$PROJECT_DIR$/../bucky/src/part68.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Enk0OYoBJb1ExrnMHKY4Si9qHX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="company" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.mennomuller.Main" />
+      <module name="Eindopdracht2" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e02edd68-3254-48e2-b456-faacacd5ca18" name="Changes" comment="" />
+      <created>1663238515034</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1663238515034</updated>
+    </task>
+    <servers />
+  </component>
+</project>
