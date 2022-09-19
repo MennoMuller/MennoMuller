@@ -4,17 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e02edd68-3254-48e2-b456-faacacd5ca18" name="Changes" comment="All sorts of stuff, I don't know what exactly">
-      <change afterPath="$PROJECT_DIR$/../Eindopdracht3/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Eindopdracht3/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Eindopdracht3/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Eindopdracht3/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Eindopdracht3/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Eindopdracht3/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Eindopdracht3/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Eindopdracht3/Eindopdracht3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Eindopdracht3/out/production/Eindopdracht3/com/mennomuller/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Eindopdracht3/src/com/mennomuller/Main.java" afterDir="false" />
+    <list default="true" id="5288a935-c743-406e-a014-56df4ee9842a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eindopdracht3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Eindopdracht3/com/mennomuller/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mennomuller/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../exponent/.idea/description.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../exponent/.idea/encodings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../exponent/.idea/misc.xml" afterDir="false" />
@@ -26,7 +26,7 @@
       <change afterPath="$PROJECT_DIR$/../exponent/exponent.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../exponent/out/production/exponent/com/mennomuller/Main.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../exponent/src/com/mennomuller/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Eindopdracht2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Eindopdracht2/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +39,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2Enk0OYoBJb1ExrnMHKY4Si9qHX" />
+  <component name="ProjectId" id="2EzCKDdl97iz9LypZJRRokPtQsF" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
@@ -100,10 +100,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.mennomuller.Main" />
-      <module name="Eindopdracht2" />
+      <module name="Eindopdracht3" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -120,20 +123,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="e02edd68-3254-48e2-b456-faacacd5ca18" name="Changes" comment="" />
-      <created>1663238515034</created>
+      <changelist id="5288a935-c743-406e-a014-56df4ee9842a" name="Changes" comment="" />
+      <created>1663588964061</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1663238515034</updated>
+      <updated>1663588964061</updated>
     </task>
-    <task id="LOCAL-00001" summary="All sorts of stuff, I don't know what exactly">
-      <created>1663246486621</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1663246486621</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -146,9 +141,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="All sorts of stuff, I don't know what exactly" />
-    <option name="LAST_COMMIT_MESSAGE" value="All sorts of stuff, I don't know what exactly" />
   </component>
 </project>
