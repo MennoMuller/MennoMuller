@@ -5,9 +5,6 @@ import java.util.Scanner;
 
 public class Main {
 
-    static int lucas1 = 2;
-    static int lucas2 = 1;
-
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         int number;
@@ -18,6 +15,8 @@ public class Main {
                 number = input.nextInt();
                 if (number < 0) {
                     System.out.println("Getal negatief, fout\n");
+                }else if(number==0){
+                    System.out.println("Getal nul, fout\n");
                 } else if (number > 45) {
                     System.out.println("Getal te groot, past niet\n");
                 } else {
@@ -29,23 +28,14 @@ public class Main {
             }
         }
         System.out.println("De eerste " + number + " Lucas-getallen:");
-        StringBuilder lucasSeq = new StringBuilder();
-        for (int i = 0; i < number; i++) {
-            if (i == 0) {
-                lucasSeq.append("2");
-            } else if (i == 1) {
-                lucasSeq.append(" 1");
-            } else {
-                lucasSeq.append(" ").append(lucas());
-            }
-        }
-        System.out.println(lucasSeq);
+        System.out.println(lucasString(2,1,number));
     }
 
-    public static int lucas() {
-        int lucas3 = lucas1 + lucas2;
-        lucas1 = lucas2;
-        lucas2 = lucas3;
-        return lucas3;
+    public static String lucasString(int lucas1, int lucas2, int steps){
+        if(steps == 1){
+            return Integer.toString(lucas1);
+        } else {
+            return lucas1+" " + lucasString(lucas2,lucas1+lucas2,steps-1);
+        }
     }
 }
