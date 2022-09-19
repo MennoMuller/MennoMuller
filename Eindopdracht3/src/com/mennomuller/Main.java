@@ -17,14 +17,14 @@ public class Main {
                 System.out.print("Geef een natuurlijk getal: ");
                 number = input.nextInt();
                 if (number < 0) {
-                    System.out.println("Getal negatief, fout");
+                    System.out.println("Getal negatief, fout\n");
                 } else if (number > 45) {
-                    System.out.println("Getal te groot, past niet");
+                    System.out.println("Getal te groot, past niet\n");
                 } else {
                     break;
                 }
             } catch (InputMismatchException e) {
-                System.out.println("Dat is geen natuurlijk getal.");
+                System.out.println("Dat is geen natuurlijk getal.\n");
                 input.next();
             }
         }
